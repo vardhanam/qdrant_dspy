@@ -1,0 +1,5 @@
+'qdrant-client[fastembed]'
+datasets
+dspy-ai
+transformers
+torch

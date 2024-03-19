@@ -1,0 +1,3 @@
+HTTP Request: POST http://localhost:6333/collections/customer_service/points/scroll "HTTP/1.1 200 OK"
+Some parameters are on the meta device device because they were offloaded to the disk and cpu.
+HTTP Request: POST http://localhost:6333/collections/customer_service/points/search/batch "HTTP/1.1 200 OK"
